@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1520679355 source:c:\users\utilizador\dropbox\c\tp3 - lz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+	<conio.h>
+
+1520679355 source:c:\users\perry\dropbox\c\tp3 - lz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+	<conio.h>
+
